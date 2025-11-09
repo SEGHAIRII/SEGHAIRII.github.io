@@ -23,7 +23,7 @@ repository               : "SEGHAIRII/SEGHAIRII.github.io" # the GitHub reposito
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "SEGHAIRI Abderraouf"
   pronouns         : # example: "she/her"  
   bio              : "Ai Researcher interested in Large Language Models, and neuromorphic computing."
@@ -81,12 +81,14 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
+  preprints:
+    title: 'Preprints'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'
   conferences:
     title: 'Conference Papers'
+  books:
+    title: 'Books'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews

@@ -1,6 +1,7 @@
 ---
 title: "Convolutional Neural Network (CNN) Architecture and Hyper-Parameter Optimization (HPO) for Image Classification"
 collection: publications
+category: preprints
 permalink: /publication/cnn-hpo
 excerpt: "Deep learning has transformed the field of computer vision, with CNNs becoming the foundation for a wide range of image classification tasks. Their ability to automatically learn hierarchical feature representations has made them indispensable in domains such as healthcare, autonomous systems, and industrial automation. However, achieving optimal performance with CNNs depends heavily on selecting appropriate hyperparameters—such as architectural configurations—which significantly influence training efficiency and generalization capability.Hyperparameter optimization (HPO) is a crucial yet challenging task due to the highdimensional and non-convex nature of the search space. Traditional methods like grid search and random search, while straightforward, suffer from inefficiency and excessive computational costs. More advanced approaches, including Bayesian optimization, evolutionary algorithms, and local search techniques, have been developed to explore the search space more effectively. Each method presents advantages and limitations, with trade-offs between exploration and exploitation, computational feasibility, and scalability."
 date: June 2025
